@@ -1,14 +1,14 @@
 {
-  "name": "Custom Sankey Chart",
-  "id": "custom-sankey-chart",
-  "description": "A custom Sankey chart to visualize funnel data.",
-  "resources": {
-    "js": [
-"https://alexandre-cameron-borges.github.io/sankeylookerstudio/sankey-chart.js"
-    ],
-    "css": [
-"https://alexandre-cameron-borges.github.io/sankeylookerstudio/sankey-chart.css"
-    ]
-  },
-  "devMode": true
+    "name": "Custom Sankey Chart",
+    "id": "custom-sankey-chart",
+    "description": "A custom Sankey chart to visualize funnel data.",
+    "resources": {
+        "js": [
+            "https://alexandre-cameron-borges.github.io/sankeylookerstudio/sankey-chart.js"
+        ],
+        "css": [
+            "https://alexandre-cameron-borges.github.io/sankeylookerstudio/sankey-chart.css"
+        ]
+    },
+    "devMode": true
 }
